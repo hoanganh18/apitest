@@ -1,4 +1,5 @@
 {
+    "user": [{
         "id": "admin",
         "name": "admin",
         "password": "123456",
@@ -6,4 +7,5 @@
         "gender": "male",
         "role": "",
         "isactive": false
-    }
+    }]
+}
