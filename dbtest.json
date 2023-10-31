@@ -1,0 +1,9 @@
+{
+        "id": "admin",
+        "name": "admin",
+        "password": "123456",
+        "email": "anh@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": false
+    }
