@@ -7,7 +7,7 @@
         "email": "anh@gmail.com",
         "gender": "male",
         "role": "",
-        "isactive": false
+        "isactive": true
     },
            {
         "id": "admin1",
