@@ -1,5 +1,6 @@
 {
-    "user": [{
+    "user": [
+        {
         "id": "admin",
         "name": "admin",
         "password": "123456",
@@ -7,5 +8,15 @@
         "gender": "male",
         "role": "",
         "isactive": false
-    }]
+    },
+           {
+        "id": "admin1",
+        "name": "admin1",
+        "password": "123456",
+        "email": "anh1@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": false
+    }
+    ]
 }
