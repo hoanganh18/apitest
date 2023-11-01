@@ -28,7 +28,33 @@
         "role": "",
         "isactive": true
     },
-        
+             {
+        "id": "thanh",
+        "name": "thanh",
+        "password": "123456",
+        "email": "thanh@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": true
+    },
+             {
+        "id": "chinh",
+        "name": "chinh",
+        "password": "123456",
+        "email": "chinh@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": true
+    },
+             {
+        "id": "thin",
+        "name": "thin",
+        "password": "123456",
+        "email": "thin@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": true
+    },
            {
         "id": "admin1",
         "name": "admin1",
