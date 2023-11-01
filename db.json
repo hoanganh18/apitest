@@ -9,6 +9,26 @@
         "role": "",
         "isactive": true
     },
+     {
+        "id": "quang",
+        "name": "quang",
+        "password": "123456",
+        "email": "quang@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": true
+    },
+
+     {
+        "id": "cuong",
+        "name": "cuong",
+        "password": "123456",
+        "email": "cuong@gmail.com",
+        "gender": "male",
+        "role": "",
+        "isactive": true
+    },
+        
            {
         "id": "admin1",
         "name": "admin1",
