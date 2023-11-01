@@ -6,7 +6,7 @@
         "password": "123456",
         "email": "anh@gmail.com",
         "gender": "male",
-        "role": "",
+        "role": "admin",
         "isactive": true
     },
      {
