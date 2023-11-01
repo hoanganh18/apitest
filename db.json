@@ -64,5 +64,15 @@
         "role": "",
         "isactive": false
     }
-    ]
+    ],
+      "role": [
+        {
+        "code":"staff",
+            "name":"Staff"
+    },
+          {
+              "code":"quality",
+              "name":"Quality"
+          }
+      ]
 }
